@@ -1,0 +1,7 @@
+Checkpoint project
+How does the web works?
+the web written in text with hipertext markup language HTML then uploaded to a host computer running web server sofetwer 
+waht do you need to be a web developer ?
+a web developer need three pillars to work .. HTML CSS and JAVASCRIPT to exesting code
+what's the role of a web developer ?
+the web developer is a reponsible of coding and design of the website.
